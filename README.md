@@ -24,4 +24,4 @@
 ** 기프티콘 중복 등록 방지도 추가하였습니다.
 
 
-![Image](https://github.com/user-attachments/assets/f1d93731-e7fd-4344-8a50-d840f57a628d)
+![Image](https://github.com/user-attachments/assets/f10b875a-5cea-4195-a996-6cf4714e0e6d)
